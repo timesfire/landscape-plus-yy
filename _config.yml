@@ -1,0 +1,60 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+rss: /atom.xml
+
+# Content
+excerpt_link: Read More
+fancybox: false
+mathjax: false
+
+# Sidebar
+sidebar: right
+widgets:
+- category
+- tag
+- tagcloud
+- archive
+- recent_posts
+# - links
+
+
+#### Author information
+author:
+  google_plus:    ## eg:116338260303228776998 for https://plus.google.com/u/0/116338260303228776998
+  intro_line1: "" ## eg: "Hello ,I'm Larry Page in Google."
+  intro_line2: "" ## eg: "This is my blog,believe it or not."
+  weibo: ##http://weibo.com/436062867
+  twitter: #https://twitter.com/yangjiansky
+  github: timesfire
+  facebook:   ## e.g. yangjian for https://favebook.com/yangjian
+  tsina:      ## e.g. 1664838973  Your weibo ID,It will be used in share button.
+  linkedin:   ## e.g. in/jeffweiner08 for https://www.linkedin.com/in/jeffweiner08
+
+
+# Links
+links:
+  主题作者: http://xiguabaobao.com
+  热前端: http://reqianduan.com
+
+# Code Highlight theme
+# Available value: original
+#    normal | night | night eighties | night blue | night bright
+# https://github.com/chriskempson/tomorrow-theme
+highlight_theme: normal
+
+# Miscellaneous
+baidu_tongji: true
+google_analytics:
+favicon: /favicon.png
+twitter:
+google_plus:
+fb_admins: 
+fb_app_id:
+
+# Duoshuo
+duoshuo_shortname: 
+
+# Baidu share
+baidushare: true

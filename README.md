@@ -183,3 +183,7 @@ git pull
 ## <a name='sites'>网站列表</a>
 
 如果你的网站正在使用**landscape-plus**主题，你可以将网址添加到[wiki的网站列表](https://github.com/xiangming/landscape-plus/wiki)。
+=======
+# landscape-plus-yy
+Theme 「landscape-plus」 of hexo, improved. See my blog to check what is looks like. http://dreamhigh.club
+>>>>>>> 77a72ef84e2bedce2d37a138a4aea57f91d134e7
